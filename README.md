@@ -2,7 +2,7 @@
 
 ## * Hướng dẫn chơi *
   * di chuyển các khối để đạt được điểm cao nhất. Mỗi lần lấp kín một hàng(ăn), bạn sẽ được tăng 100 điểm, mỗi khi đạt 1000 điểm, lv sẽ tăng lên 1, ăn nhiều hàng cũng một lúc sẽ được nhiều điểm hơn.
-  * sử dụng các phím up, down, left, right để di chuyển.
+  * sử dụng các phím up(xoay hình), down(tăng tốc độ rơi), left(đi sang trái), right(đi sang phải) để điều khiển.
   * ấn phím esc để quay lại hoặc thoát.
 
 ## *Cài Đặt*
