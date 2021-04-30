@@ -11,4 +11,4 @@
   * download SDL2 [tại đây](https://drive.google.com/drive/folders/1PyzKj5MOhJ8ONnLbhmIey-uTI1CjtsUv?usp=sharing)
   * mở codeblock, SDL2 và cài đặt các thư mục image, mixer, ttf, sdl tương tự như [video](https://www.youtube.com/watch?v=dC77R3MYjcU)
   * đối với bản 64bit thêm các file có đuôi .dll tại các thư mục trong SDL2 vào thư mục game( bản 32bit đã đc thêm sẵn )
-  * mở bin, mở release, chọn file Tetris.exe để chơi.
+  * mở bin, mở release, chọn file Tetris.exe hoặc mở code block, chọn run để chơi.
