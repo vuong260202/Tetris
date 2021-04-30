@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1619635008 source:c:\users\admin\desktop\tetris - i686\_sdl.cpp
+	"_sdl.h"
+
+1619641798 c:\users\admin\desktop\tetris - i686\_sdl.h
+	"color.h"
+	<iostream>
+	<time.h>
+	<random>
+	<string>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	"sound.h"
+
+1619370252 c:\users\admin\desktop\tetris - i686\color.h
+	<SDL.h>
+
+1619537066 c:\users\admin\desktop\tetris - i686\sound.h
+	<SDL_mixer.h>
+
+1619643132 source:c:\users\admin\desktop\tetris - i686\base.cpp
+	"base.h"
+
+1619672214 c:\users\admin\desktop\tetris - i686\base.h
+	"khoi.h"
+
+1619542392 c:\users\admin\desktop\tetris - i686\khoi.h
+	"IMG.h"
+
+1619542707 c:\users\admin\desktop\tetris - i686\img.h
+	"text.h"
+
+1619542564 c:\users\admin\desktop\tetris - i686\text.h
+	"_sdl.h"
+
+1619582926 source:c:\users\admin\desktop\tetris - i686\event.cpp
+	"event.h"
+
+1619545265 c:\users\admin\desktop\tetris - i686\event.h
+	"base.h"
+
+1619657306 source:c:\users\admin\desktop\tetris - i686\img.cpp
+	"IMG.h"
+
+1619657597 source:c:\users\admin\desktop\tetris - i686\khoi.cpp
+	"khoi.h"
+
+1619769568 source:c:\users\admin\desktop\tetris - i686\main.cpp
+	"runGame.h"
+
+1619543741 c:\users\admin\desktop\tetris - i686\rungame.h
+	"event.h"
+
+1619659028 source:c:\users\admin\desktop\tetris - i686\rungame.cpp
+	"runGame.h"
+
+1619537868 source:c:\users\admin\desktop\tetris - i686\sound.cpp
+	"sound.h"
+
+1619541727 source:c:\users\admin\desktop\tetris - i686\text.cpp
+	"text.h"
+
